@@ -3,6 +3,9 @@
 
 An AI-powered desktop application that translates sign language gestures into text in real time using Computer Vision and Machine Learning.
 
+Note: The source code is kept private to protect the project implementation and model architecture.
+
+
 ##  Technologies Used
 
 * Python
